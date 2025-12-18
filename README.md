@@ -1,5 +1,8 @@
 # Hi 👋, I'm Mathieu Denegre
 
+I am a data-driven professional with 13 years of experience in the telecommunications industry and a strong passion for numbers and analytics. 
+My key strength as a Data Analyst lies in combining strong analytical rigor with solid business understanding and communication skills. I am eager to join a data-driven team where I can apply my technical skills, continuously learn, and create measurable impact through data.
+ 
 ### A data analyst
 
 - 🔭 I'm currently working on **some projects of data**
