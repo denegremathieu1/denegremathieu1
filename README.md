@@ -2,8 +2,6 @@
 
 ### A data analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denegremathieu1&label=Profile views&color=0e75b6&style=flat" alt="denegremathieu1" /> </p>
-
 - 🔭 I'm currently working on **some projects of data**
 
 - 🌱 I'm currently learning **SQL, Python & tools of dataviz**
