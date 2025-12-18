@@ -2,13 +2,19 @@
 
 ### A data analyst
 
-- 🔭 I'm currently working on **some projects of data**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denegremathieu1&label=Profile views&color=0e75b6&style=flat" alt="denegremathieu1" /> </p>
 
-- 🌱 I'm currently learning **SQL, Python & tools of dataviz**
+- 🔭 I'm currently working on **some projects of data analytics**
+
+- 🌱 I'm currently learning **Business Intelligence, SQL, Python & tools of dataviz**
 
 - 👯 I'm looking to collaborate on **new companies**
 
 - 🤝 I'm looking for help with **finding a job**
+
+- 💬 Ask me about **KPIs, SQL, Python, Dashboards**
+
+- ⚡ Fun fact **I'm a cycling adventurer**
 
 - 👨‍💻 All of my projects are available at **[https://www.notion.so/My-portfolio-2ccd6b97442281318660fb2b8d904d59?source=copy_link](https://www.notion.so/My-portfolio-2ccd6b97442281318660fb2b8d904d59?source=copy_link)**
 
